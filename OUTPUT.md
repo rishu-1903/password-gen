@@ -1,4 +1,4 @@
-your ouput should be:
+your output should be:
 Enter the desired length of the password: 8
 Include uppercase letters? (y/n): y
 Include lowercase letters? (y/n): y
